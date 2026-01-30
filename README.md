@@ -7,7 +7,7 @@ This repository is created to practice GitHub basics.
 - Learning Git & GitHub
 
 ## Skills
-- Python (Beginner)
+- Python (Intermediate)
 - Data Science (Student Level)
 
 ## Files in this Repository
