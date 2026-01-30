@@ -1,6 +1,14 @@
-# github-practice
-This is my first practice Repository.
-I am learning Github step by step.
-Skills:
--Python (Beginner)
--Data Science student
+# Github-Practice Repository
+This repository is created to practice GitHub basics.
+
+## About Me 
+- Name: Arun Shinde
+- Bsc Data Science Student
+- Learning Git & GitHub
+
+## Skills
+- Python (Beginner)
+- Data Science (Student Level)
+
+## Files in this Repository
+- hello.py -> My first Python program
